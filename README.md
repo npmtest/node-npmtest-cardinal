@@ -1,4 +1,7 @@
-# test coverage for  [cardinal (v1.0.0)](https://github.com/thlorenz/cardinal#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-cardinal.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-cardinal) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-cardinal.svg)](https://travis-ci.org/npmtest/node-npmtest-cardinal)
+# npmtest-cardinal
+
+#### basic test coverage for  [cardinal (v1.0.0)](https://github.com/thlorenz/cardinal#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-cardinal.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-cardinal) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-cardinal.svg)](https://travis-ci.org/npmtest/node-npmtest-cardinal)
+
 #### Syntax highlights JavaScript code with ANSI colors to be printed to the terminal.
 
 [![NPM](https://nodei.co/npm/cardinal.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/cardinal)
